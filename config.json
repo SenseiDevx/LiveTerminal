@@ -1,16 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
   "title": "LiveTerm",
-  "name": "John Doe",
+  "name": "Omurbek Kurmanbekov",
   "ascii": "liveterm",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
+  "email": "kurmanbekovomurbek80@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/sensei404/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
